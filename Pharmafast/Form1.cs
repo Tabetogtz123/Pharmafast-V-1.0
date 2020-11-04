@@ -23,6 +23,7 @@ namespace Pharmafast
 
 
         public Form activeform = null;
+         public Form activeform = null;
         public void openForm(Form formulario)
         {
             
